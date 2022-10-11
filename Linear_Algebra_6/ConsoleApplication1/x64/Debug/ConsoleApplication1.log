@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Linear_Algebra.cpp
+D:\Kuliah\Sem3\Linear_Algebra_6\ConsoleApplication1\Linear_Algebra.cpp(81,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\Kuliah\Sem3\Linear_Algebra_6\x64\Debug\Linear_Algebra_6.exe
